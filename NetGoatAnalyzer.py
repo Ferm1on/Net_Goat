@@ -224,7 +224,7 @@ pass_ping_average = 56.1 + 51
 pass_ping_median = 45.5 + 51 
 pass_ping_stdev = 51 * 2   
 
-# Fail Ping Values: Callibrated based on failed Fanrsworth 118 and 123 APs
+# Fail Ping Values: Callibrated based on failed WAP
 fail_ping_success_rate = 0.69
 fail_ping_average = 1894.2 
 fail_ping_median = 1633.75 
@@ -246,7 +246,7 @@ pass_dns_average = 1080.3 + 463.8
 pass_dns_median = 54.81865 + 463.8      
 pass_dns_stdev = 463.8 * 1.5   
 
-# Fail DNS Values: Callibrated based on failed Fanrsworth 118 and 123 APs
+# Fail DNS Values: Callibrated based on failed WAPs
 fail_dns_success_rate = 0.80
 fail_dns_average = 2736.8  
 fail_dns_median = 1088.6293500000002     
